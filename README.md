@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio – Nirali Kanjaria
+# 📊 Data Analytics Portfolio
 
 Entry-level BI & Data Analyst with hands-on experience in Power BI, SQL, and
 Excel. Google Data Analytics Certified with a strong focus on BI reporting,
