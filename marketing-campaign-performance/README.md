@@ -71,7 +71,7 @@ decision-making.
 ## 📸 Dashboard Preview
 
 ### Campaign Performance Overview
-![Campaign Performance Overview](Campaign Performance Overview.png)
+![Campaign Performance Overview](campaign_performance_overview.png)
 
 ### Monthly Campaign Performance Report
-![Monthly Campaign Performance Report](Monthly Campaign Performance Overview.png)
+![Monthly Campaign Performance Report](monthly_campaign_performance_overview.png)
