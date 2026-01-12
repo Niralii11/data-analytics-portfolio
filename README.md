@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-Entry-level Data Analyst with hands-on experience in Power BI, Tableau, SQL, and
+Entry-level Data Analyst with hands-on experience in Power BI, SQL, and
 Excel. Google Data Analytics Certified with a strong focus on BI reporting,
 data visualization, and business insights.
 
@@ -52,19 +52,6 @@ https://github.com/Niralii11/impact-of-social-media-powerbi
 
 👉 View Project:  
 https://github.com/Niralii11/powerbi-sales-dashboard
-
----
-
-### 🚲 London Bike Rides Analysis
-**Category:** Transportation / Mobility Analytics  
-**Tools:** Tableau  
-
-- Analyzed bike usage trends across London
-- Identified seasonal and time-based usage patterns
-- Designed interactive Tableau dashboards
-
-👉 View Project:  
-https://github.com/Niralii11/london-bike-rides-tableau
 
 ---
 
